@@ -4,8 +4,12 @@ This is a file that contains text.
 
 It has a small  purpose in life.
 
-All it does is display insignificant text.
-
 Do you see the changes?
 
 OMG such add.
+
+Wouldn't this file be cuter with kittens?
+
+If you need to see a kitty look at the photos in this repo!
+
+Much cuteness.
