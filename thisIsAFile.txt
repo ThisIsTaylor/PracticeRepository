@@ -1,14 +1,18 @@
-Hello,
+Hello Jen and Amy,
 
 This is a file that contains text.
 
-It has no meaning or purpose in life.
+It has a small  purpose in life.
 
-All it does is display meaningless text.
-
-This is the Seinfeld of files.
+Do you see the changes?
 
 OMG such add.
 
-
 HAY GUISE
+
+Wouldn't this file be cuter with kittens?
+
+If you need to see a kitty look at the photos in this repo!
+
+Much cuteness.
+
