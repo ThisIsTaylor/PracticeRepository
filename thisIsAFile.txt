@@ -1,0 +1,10 @@
+Hello,
+
+This is a file that contains text.
+
+It has no meaning or purpose in life.
+
+All it does is display meaningless text.
+
+This is the Seinfeld of files.
+
