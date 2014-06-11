@@ -35,8 +35,22 @@
     // Dispose of any resources that can be recreated.
 }
 
-/*I am adding lots of comments down here socngdghhmg we can play around with itfhjjv.*/
+
 
 //I really really really really really want some Ben and Jerry's.
+
+/*I am adding lots of comments down here so we can play around with it. Woohoo, here goes some more comments. In fact, let me share a monologue
+ 
+ "Not a soul
+ But felt a fever of the mad and play'd
+ Some tricks of desperation. All but mariners
+ Plunged in the foaming brine and quit the vessel,
+ Then all afire with me: the king's son, Ferdinand,
+ With hair up-staring,—then like reeds, not hair,—
+ Was the first man that leap'd; cried, 'Hell is empty
+ And all the devils are here." - Ariel
+ 
+ */
+
 
 @end
