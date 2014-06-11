@@ -7,14 +7,18 @@
 //
 
 #import "WAAppDelegate.h"
+#import "ViewController.h"
 
 @implementation WAAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
-    // Override point for customization after application launch.
-    self.window.backgroundColor = [UIColor whiteColor];
+
+    ViewController *viewCont = [[ViewController alloc] init];
+    self.window.rootViewController = viewCont;
+    
+    self.window.backgroundColor = [UIColor greenColor];
     [self.window makeKeyAndVisible];
     return YES;
 }
