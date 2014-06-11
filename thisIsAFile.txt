@@ -1,10 +1,10 @@
-Hello,
+Hello Jen and Amy,
 
 This is a file that contains text.
 
-It has no meaning or purpose in life.
+It has a small  purpose in life.
 
-All it does is display meaningless text.
+All it does is display insignificant text.
 
-This is the Seinfeld of files.
+Do you see the changes?
 
